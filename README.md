@@ -33,7 +33,7 @@ sudo ln -rs diskrefresh.py /usr/bin/diskrefresh
 ```
 or
 ```
-ln -rs diskrefresh.py /home/approx/.local/bin/diskrefresh
+ln -rs diskrefresh.py /home/$USER/.local/bin/diskrefresh
 ```
 ## Tabs
 
