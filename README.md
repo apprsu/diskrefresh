@@ -11,7 +11,7 @@ sudo python3 diskrefresh.py
 
 ## Installation & Usage
 
-> Ensure you have python >= 3.12 installed.
+> Ensure you have python >= 3.6 installed.
 
 To install `diskrefresh`, pull the repository:
 
