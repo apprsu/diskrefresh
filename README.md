@@ -30,6 +30,7 @@ After that, you can already use this tool.
 
 ```
 ./diskrefresh.py
+#or sudo ./diskrefresh.py to run as root
 ```
 
 To be able to run `diskrefresh` from everywhere, add this tool to your PATH.
