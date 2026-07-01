@@ -20,6 +20,12 @@ git clone https://github.com/apprsu/diskrefresh
 cd diskrefresh
 ```
 
+Make a file executable:
+
+```
+chmod +x diskrefresh.py
+```
+
 After that, you can already use this tool.
 
 ```
